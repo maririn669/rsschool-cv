@@ -14,6 +14,11 @@
 + VS Code
 
 # **Code example:**
+```
+function multiply (a, b){
+return a * b
+}
+```
 
 # **Education and Courses:**
 RS School Course "Java-Script/Front-end.Stage 0" (in progress)
