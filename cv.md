@@ -1,11 +1,11 @@
 # **Marina May**
-##*Frontend Developer-to be*
+*Frontend Developer-to be*
 
 # **Contact Info:**
-[E-mail:] (mailto:marina.maj669@gmail.com)
-[Telegram:] (http://t.me/marina_maj669 "@marina_maj669")
-[GitHub:] (https://github.com/maririn669 "maririn669")
-[Discord:] (Maririn669#9055) 
+- **E-mail:** marina.maj669@gmail.com
+- **Telegram:** http://t.me/marina_maj669 "@marina_maj669"
+- **GitHub:** https://github.com/maririn669
+- **Discord:** Maririn669#9055 
 
 # **Future Skills and Proficiency:**
 + HTML
@@ -16,8 +16,8 @@
 # **Code example:**
 ```
 function multiply (a, b){
-return a * b
-}
+    return a * b
+    }
 ```
 
 # **Education and Courses:**
