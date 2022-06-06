@@ -1,13 +1,14 @@
-https://maririn669.github.io/rsschool-cv/cv
+[rsschool-cv](https://maririn669.github.io/rsschool-cv/cv)
 # **Marina May**
-! [Photo](/IMG-2027.PNG)
+
 *Frontend Developer-to be*
+! [Photo](/IMG-2027.PNG)
 
 # **Contact Info:**
 - **E-mail:** marina.maj669@gmail.com
-- **Telegram:** http://t.me/marina_maj669 "@marina_maj669"
-- **GitHub:** https://github.com/maririn669
-- **Discord:** Maririn669#9055 
+- **Telegram:** [@marina_maj669](http://t.me/marina_maj669) 
+- **GitHub:** [maririn669](https://github.com/maririn669) 
+- **Discord:** [Maririn669#9055] 
 
 # **Future Skills and Proficiency:**
 + HTML
@@ -26,7 +27,7 @@ function multiply (a, b){
 RS School Course "Java-Script/Front-end.Stage 0" (in progress)
 
 # **Languages:**
-+ Russian (Natinve speaker)
-+ English (B2 and keep learning)
-+ Japanese (N3 and keep learning)
-+ Dutch (Beginner)
++ **Russian** (Natinve speaker)
++ **English** (B2 and keep learning)
++ **Japanese** (N3 and keep learning)
++ **Dutch** (Beginner)
