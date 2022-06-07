@@ -3,7 +3,7 @@
 
 *Frontend Developer-to be*
 
-! [Photo](/IMG-2027.PNG)
+![Photo](/profile-pic.png)
 
 # **Contact Info:**
 - **E-mail:** marina.maj669@gmail.com
