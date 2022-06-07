@@ -2,7 +2,7 @@
 # **Marina May**
 
 *Frontend Developer-to be*
-! [Photo](/IMG-2027.PNG)
+![Photo](/IMG-2027.PNG)
 
 # **Contact Info:**
 - **E-mail:** marina.maj669@gmail.com
