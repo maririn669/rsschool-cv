@@ -1,4 +1,4 @@
-[rsschool-cv](https://maririn669.github.io/rsschool-cv/cv)
+# **[rsschool-cv]**(https://maririn669.github.io/rsschool-cv/cv)
 # **Marina May**
 
 *Frontend Developer-to be*
@@ -8,7 +8,7 @@
 - **E-mail:** marina.maj669@gmail.com
 - **Telegram:** [@marina_maj669](http://t.me/marina_maj669) 
 - **GitHub:** [maririn669](https://github.com/maririn669) 
-- **Discord:** [Maririn669#9055] 
+- **Discord:** [Maririn669](https://discordapp.com/users/maririn669#9055) 
 
 # **Future Skills and Proficiency:**
 + HTML
