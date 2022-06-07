@@ -1,4 +1,4 @@
-# **[rsschool-cv]**(https://maririn669.github.io/rsschool-cv/cv)
+# **[rsschool-cv](https://maririn669.github.io/rsschool-cv/cv)**
 # **Marina May**
 
 *Frontend Developer-to be*
