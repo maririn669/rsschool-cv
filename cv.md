@@ -12,10 +12,8 @@
 - **Discord:** [Maririn669](https://discordapp.com/users/maririn669#9055) 
 
 # **Future Skills and Proficiency:**
-+ HTML
-+ JavaScript Basics
++ HTML5, CSS3, JavaScript
 + Git, GitHub
-+ VS Code
 
 # **Code example:**
 ```
