@@ -1,125 +1,100 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="style.css" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@300;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="assets/favicon.ico">
-    <title>CV</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="style.css"
+  rel="stylesheet" />
+  <title>CV</title>
 </head>
+
 <body>
-    <header class="header">
-        <div class="container header-container">
-            <nav class="nav">
-                <ul class="nav-list">
-                    <li class="nav-item">
-                        <a href="#contacts" class="nav-link">contacts</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#skills" class="nav-link">skills</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#code" class="nav-link">code</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#education" class="nav-link">education</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#languages" class="nav-link">languages</a>
-                    </li>
-                </ul>
-            </nav>
-        </div>    
-    </header>
-    <main class="main">
-       <div class="container main-container">
-          <section class="section section-profile" id="profile">
-             <img src="assets/img/profile-picture.PNG" alt="Profile picture">
-             <div class="section-profile-title">
-                <h1 class="section-title main-title">Marina Maj</h1>
-                <h2 class="section-subtitle">Front-end Developer-to be</h2>
-                <h3 class="section-subtitle-location">Saint-Petersburg, Russia</h3>
-             </div>    
-          </section>
-          <section class="section" id="contacts">
-            <h2 class="section-title">Contact Info</h2>
-            <ul class="section-list">
-              <li class="section-item contacts-item">
-                Email: <a href="mailto:marina.maj669@gmail.com" title="email">marina.maj669@gmail.com</a>
+  <header>
+    <div class="container">
+      <div class="header-container">
+        <div class="header-content">
+          <div class="header-profile"></div>
+          <nav class="header-nav">
+            <ul class="header-nav-list">
+              <li class="header-nav-item">
+                <a href="#contacts" class="header-nav-link">Contacts</a>
               </li>
-              <li class="section-item contacts-item">
-                Telegram: <a href="https://t.me/marina_maj669" title="telegram">@marina_maj669</a>
+              <li class="header-nav-item">
+                <a href="#skills" class="header-nav-link">Skills</a>
               </li>
-              <li class="section-item contacts-item">
-                Github: <a href="https://github.com/maririn669" title="github">maririn669</a>
+              <li class="header-nav-item">
+                <a href="#code" class="header-nav-link">Code</a>
               </li>
-              <li class="section-item contacts-item">
-                Discord: <a href="https://discord.gg/zUr7wWYPXE" title="discord">maririn669</a>
+              <li class="header-nav-item">
+                <a href="#education" class="header-nav-link">Education</a>
+              </li>
+              <li class="header-nav-item">
+                <a href="#languages" class="header-nav-link">Languages</a>
               </li>
             </ul>
-          </section>
-          <section class="section" id="skills">
-            <h2 class="section-title">Skills in progress</h2>
-            <ul class="section-list">
-              <li class="section-item">
-                <span> HTML5, CSS3, JavaScript</span>
-              </li>
-              <li class="section-item">
-                <span> GIT, Github</span>
-              </li>
-            </ul>
-          </section>
-          <section class="section" id="code">
-            <h2 class="section-title">Code</h2>
-    <pre class="pre"><code>function multiply (a, b){
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <img src="assets/img/profile-picture.PNG" alt="My photo" class="avatar">
+    <h1>Marina Maj</h1>
+    <h2>Front-end developer-to be</h2>
+    <h3>Saint-Petersburg, Russia</h3>
+
+    <h2>Contact Info</h2>
+
+    <h2>Skills in progress</h2>
+
+    <h2>Code example
+      <pre class="pre">
+        <code>function multiply (a, b){
         return a * b
         }
-    </code></pre>
-          </section>
-          <section class="section" id="education">
-            <h2 class="section-title">
-                Education
-            </h2>
-            <li class="education-place">
-                Saint-Petersburg State Univerisy of Culture
-            </li>
-            <div class="education-title">
-                Bachelor degree in Linguistics and Cross-cultural communication
-            </div>
-              <li class="education-courses">
-                RS School Course <span>"Java-Script/Front-end.Stage 0"</span> (in progress)
-              </li>
-          </section>
-          <section class="section section-languages" id="languages">
-            <h2 class="section-title">Languages</h2>
-            <ul class="section-list">
-                <li class="section-item">
-                   <span>Russian</span> (natinve speaker)
-                </li>
-                <li class="section-item">
-                   <span>English</span> (B2 and keep learning)
-                </li>
-                <li class="section-item">
-                   <span>Japanese</span> (B2 and keep learning)
-                </li>
-                <li class="section-item">
-                   <span>Dutch</span> (beginner)
-                </li>
-              </ul>
-          </section>
-    </main>
-    <footer class="footer">
-        <div class="container footer-container">
-            <div>©2022 <a href="https://github.com/maririn669" class="github nav-link">marina_maj669</a></div>
-            <a href="https://rs.school/js/" class="footer-image">
-                <img src="assets/img/rsschool-logo.svg" alt="rsschool-logo">
-            </a>
-        </div>
-    </footer>
-    <script src="index.js"></script>
+        </code>
+      </pre>
+    </h2>
+
+    <h2>Education
+      <p>Saint-Petersburg State Univerisy of Culture
+         Bachelor degree in Linguistics and Cross-cultural communication</p>
+      <p>RS School Course <span>"Java-Script/Front-end.Stage 0"</span> (in progress)</p>
+    </h2>
+
+    <h2>Languages
+      <ul>
+        <li>Russian (native)</li>
+        <li>English (B2 and keep learning)</li>
+        <li>Japanese (B2 and keep learning</li>
+        <li>Dutch (beginner)</li>
+      </ul>
+    </h2>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+      <div class="footer-pic">
+        <a href="https://github.com/maririn669" target="_blank">
+          <img src="assets/img/github-icon.svg" alt="github-icon" class="footer-image">
+        </a>
+      </div>
+      <div class="footer-pic">
+        <a href="http://rs.school/js" target="_blank">
+          <img src="assets/img/rs-school-logo.svg" alt="RS-school logo" class="footer-image">
+        </a>
+      </div>
+      <div class="footer-date">
+        ©2022
+      </div>
+      
+      </div>
+    </div>
+   </footer>
 </body>
+
 </html>
